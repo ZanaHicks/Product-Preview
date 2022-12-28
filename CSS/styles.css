@@ -124,7 +124,7 @@ margin: 1rem;
 
 .button[data-icon="shopping-cart"]::before {
     content: "";
-    background-image: url(/Images/icon-cart.svg);
+    background-image: url(../Images/icon-cart.svg);
     width: 15px;
     height: 16px;
 }
